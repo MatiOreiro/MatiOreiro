@@ -12,7 +12,7 @@ Full Stack Developer con background en banca, actualmente terminando **Ingenier�
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| 🔭 **[Bookit](https://github.com/MatiOreiro/bookit)** | Marketplace para reservar venues y servicios de eventos en Uruguay — proyecto de tesis, en curso hasta agosto 2026 | Next.js, TypeScript, ASP.NET Core, PostgreSQL |
+| 🔭 **Bookit** ([frontend](https://github.com/MatiOreiro/BookIt-frontend) · [backend](https://github.com/MatiOreiro/BookIt-backend)) | Marketplace para reservar venues y servicios de eventos en Uruguay — proyecto de tesis, en curso hasta agosto 2026 | Next.js, TypeScript, ASP.NET Core, PostgreSQL |
 | 📦 **Enterprise Shipping Management System** | Sistema de gestión de envíos con arquitectura en 3 capas: MVC, Web API REST y cliente HTTP | .NET Core, Entity Framework, SQL Server |
 | 💰 **Expenses Manager API** | API REST de gestión de gastos personales con autenticación JWT y planes de usuario | Node.js, Express, MongoDB |
 | 🎫 **Event Management System** | Sistema de gestión de eventos con estructuras de datos propias y testing unitario completo | Java, JUnit |
@@ -45,7 +45,7 @@ Full Stack Developer with a background in banking, currently finishing my **Soft
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔭 **[Bookit](https://github.com/MatiOreiro/bookit)** | Marketplace for booking event venues and complementary services in Uruguay — capstone project, through August 2026 | Next.js, TypeScript, ASP.NET Core, PostgreSQL |
+| 🔭 **Bookit** ([frontend](https://github.com/MatiOreiro/BookIt-frontend) · [backend](https://github.com/MatiOreiro/BookIt-backend)) | Marketplace for booking event venues and complementary services in Uruguay — capstone project, through August 2026 | Next.js, TypeScript, ASP.NET Core, PostgreSQL |
 | 📦 **Enterprise Shipping Management System** | Shipping management system with 3-layer architecture: MVC, Web API REST and HTTP client | .NET Core, Entity Framework, SQL Server |
 | 💰 **Expenses Manager API** | REST API for personal expense management with JWT auth and user plans | Node.js, Express, MongoDB |
 | 🎫 **Event Management System** | Event management system with custom data structures and full unit testing | Java, JUnit |
