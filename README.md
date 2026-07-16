@@ -25,7 +25,7 @@ Full Stack Developer con background en banca, actualmente terminando la carrera 
 **Backend:** `C#` `.NET Core` `ASP.NET MVC` `Node.js` `Express.js` `Java`
 **Frontend:** `React` `Next.js` `TypeScript` `JavaScript` `HTML5` `CSS3`
 **Bases de datos:** `SQL Server` `PostgreSQL` `MongoDB`
-**Testing:** `Playwright` `Jest` `JUnit`
+**Testing:** `Jest` `JUnit`
 **Herramientas / Cloud:** `Docker` `Azure` `Entity Framework` `Git`
 
 ---
@@ -56,5 +56,5 @@ Full Stack Developer with a background in banking, currently finishing my **Info
 **Backend:** `C#` `.NET Core` `ASP.NET MVC` `Node.js` `Express.js` `Java`
 **Frontend:** `React` `Next.js` `TypeScript` `JavaScript` `HTML5` `CSS3`
 **Databases:** `SQL Server` `PostgreSQL` `MongoDB`
-**Testing:** `Playwright` `Jest` `JUnit`
+**Testing:** `Jest` `JUnit`
 **Tools / Cloud:** `Docker` `Azure` `Entity Framework` `Git`
