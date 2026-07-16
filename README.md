@@ -35,7 +35,27 @@ _(Links de los últimos 3 a completar/verificar contra el repo correspondiente �
 
 Full Stack Developer with a background in banking, currently finishing my **Software Engineering** degree at Universidad ORT Uruguay. I moved from financial analysis into software — that mix keeps me thinking about both the business and the code.
 
-- 🔭 Currently working on **[Bookit](https://github.com/MatiOreiro/bookit)** — a marketplace for booking event venues and services in Uruguay (capstone project, through August 2026)
 - 🏦 Previous experience at Scotiabank in administrative/banking roles
-- 🌱 Main stack: **.NET Core · React / Next.js · TypeScript · SQL Server · Docker · Azure**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/matiasoreiro/) · matiasdoreiro@gmail.com
+- 📍 Montevideo, Uruguay
+
+---
+
+### 🚀 Featured projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🔭 **[Bookit](https://github.com/MatiOreiro/bookit)** | Marketplace for booking event venues and complementary services in Uruguay — capstone project, through August 2026 | Next.js, TypeScript, ASP.NET Core, PostgreSQL |
+| 📦 **Enterprise Shipping Management System** | Shipping management system with 3-layer architecture: MVC, Web API REST and HTTP client | .NET Core, Entity Framework, SQL Server |
+| 💰 **Expenses Manager API** | REST API for personal expense management with JWT auth and user plans | Node.js, Express, MongoDB |
+| 🎫 **Event Management System** | Event management system with custom data structures and full unit testing | Java, JUnit |
+
+---
+
+### 🛠️ Tech stack
+
+**Backend:** `C#` `.NET Core` `ASP.NET MVC` `Node.js` `Express.js` `Java`
+**Frontend:** `React` `Next.js` `TypeScript` `JavaScript` `HTML5` `CSS3`
+**Databases:** `SQL Server` `PostgreSQL` `MongoDB`
+**Testing:** `Playwright` `Jest` `JUnit`
+**Tools / Cloud:** `Docker` `Azure` `Entity Framework` `Git`
