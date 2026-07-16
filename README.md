@@ -1,6 +1,6 @@
 ### 👋 ¡Hola! Soy Matías Oreiro
 
-Full Stack Developer con background en banca, actualmente terminando **Ingeniería en Sistemas** en la Universidad ORT Uruguay. Vengo del análisis financiero y hoy construyo software — esa mezcla me hace pensar tanto en el negocio como en el código.
+Full Stack Developer con background en banca, actualmente terminando la carrera de **Analista en Tecnologías de la Información** en la Universidad ORT Uruguay. Vengo del análisis financiero y hoy construyo software — esa mezcla me hace pensar tanto en el negocio como en el código.
 
 - 🏦 Experiencia previa en Scotiabank, en roles administrativos y de banca
 - 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/matiasoreiro/) · matiasdoreiro@gmail.com
@@ -32,7 +32,7 @@ Full Stack Developer con background en banca, actualmente terminando **Ingenier�
 
 ### 👋 Hi! I'm Matías Oreiro
 
-Full Stack Developer with a background in banking, currently finishing my **Software Engineering** degree at Universidad ORT Uruguay. I moved from financial analysis into software — that mix keeps me thinking about both the business and the code.
+Full Stack Developer with a background in banking, currently finishing my **Information Technology Analyst** degree at Universidad ORT Uruguay. I moved from financial analysis into software — that mix keeps me thinking about both the business and the code.
 
 - 🏦 Previous experience at Scotiabank in administrative/banking roles
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/matiasoreiro/) · matiasdoreiro@gmail.com
